@@ -14,7 +14,6 @@ public class ejemploSumaResta {
 		
 		if (a>=b){
 			r=a-b;
-			System.out.println(" R= "+a+" - "+b+" = "+r);
 		}
 		else
 		{
