@@ -19,6 +19,8 @@ public class ejemploSumaResta {
 		else
 		{
 			r=a+b;
+
+			System.out.println(" R= "+a+" + "+b+" = "+r);
 			System.out.println(" R= "+a+" + "+b+" = "+r);
 		}
 		
